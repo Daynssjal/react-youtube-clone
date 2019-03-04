@@ -1,0 +1,22 @@
+.form {
+    margin: 0;
+    padding: 0;
+}
+
+.form--searchbar {
+    width: 100%;
+    margin: 2em 0;
+}
+
+.input {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.input--searchbar {
+    width: 100%;
+    padding: 0.8em;
+}
